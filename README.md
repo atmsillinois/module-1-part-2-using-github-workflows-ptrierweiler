@@ -4,10 +4,10 @@ Is Python code to calculate the distance and mid point coordinate of two points 
 
 ## Usage
 ### Calculate distance of two points
-./dist.py 5,2 4,5 
+python3 ./dist.py 5,2 4,5 
 
 ### Calculate mid point coordinate of two points
-./dist.py 5,2 4,5 m 
+python3 ./dist.py 5,2 4,5 m 
 
 Copyright 2025 Patrick Trierweiler
 
