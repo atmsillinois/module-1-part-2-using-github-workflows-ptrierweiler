@@ -1,8 +1,9 @@
-# Create a README.md
+# module-1-part-2-using-github-workflows-ptrierweiler
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+Is Python code to calculate the distance and mid point coordinate of two points on acartesian plane.
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+## Usage
+
 
 Copyright 2025 Patrick Trierweiler
 
